@@ -4,6 +4,8 @@ Plugin Name: Newsletter Form Block for  Mailchimp
 Description: Simple, no-nonsense Mailchimp form block for Gutenberg editor.
 Author: Fullworks
 Version: 1.02
+Requires at least: 4.9
+Requires PHP: 5.6
 Author URI: https://fullworks.net/
 
   Copyright 2018  
