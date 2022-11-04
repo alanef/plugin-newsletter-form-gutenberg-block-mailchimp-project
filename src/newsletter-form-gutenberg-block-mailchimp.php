@@ -2,11 +2,14 @@
 /*
 Plugin Name: Newsletter Form Block for  Mailchimp
 Description: Simple, no-nonsense Mailchimp form block for Gutenberg editor.
-Author: Fullworks
+Plugin URI: https://badlywired.com/foss-plugins/newsletter-form-gutenberg-block-mailchimp.php/
 Version: 1.02
 Requires at least: 4.9
 Requires PHP: 5.6
-Author URI: https://fullworks.net/
+Author URI: https://badlywired.com/
+Author: Alan
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
   Copyright 2018  
 

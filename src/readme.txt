@@ -3,9 +3,8 @@ Contributors: fullworks,alanfuller
 Donate link: https://ko-fi.com/wpalan
 Tags: mailchimp, mailchimp form, block, gutenberg, gutenberg block, gutenberg editor
 Stable tag: 1.02
-Tested up to: 6.0
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tested up to: 6.1
+
 
 Mailchimp subscribe form block for Gutenberg editor. Simple. Works. No nonsense.
 
